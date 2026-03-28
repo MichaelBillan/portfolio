@@ -8,7 +8,7 @@ export const config = {
   github: 'https://github.com/MichaelBillan',
   githubUsername: 'MichaelBillan',
   linkedin: 'http://www.linkedin.com/in/michael-billan',
-  email: 'michael7billan@email.com',
+  email: 'michael7billan@gmail.com',
 
   pinnedRepos: [
   'Constrack',
